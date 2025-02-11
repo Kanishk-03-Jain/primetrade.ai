@@ -43,7 +43,7 @@ You can access the **live Google Sheets document** [here](https://docs.google.co
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/primetrade.ai.git
+   git clone https://github.com/Kanishk-03-Jain/primetrade.ai.git
    cd crypto-market-analysis
    ```
 2. Install dependencies:
